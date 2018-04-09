@@ -5,9 +5,9 @@
   "version": "1.0",
   "created": "2018-03-01",
   "description": "Les données fixées dans l’arrêté du 14 avril 2017 doivent être publiées à compter du 1er octobre 2018 pour chaque marché public dont le montant est supérieur à 25 000 € HT et pour chaque contrat de concession. (https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000034492587&dateTexte=&categorieLien=id)",
-  "homepage": "https://github.com/virgilus/marche_public_SCDL",
-  "uri": "https://github.com/virgilus/marche_public_SCDL/schema/marche_public_SCDL.json",
-  "example": "https://github.com/virgilus/marche_public_SCDL/exemples/exemple_marche_public.csv",
+  "homepage": "https://git.opendatafrance.net/scdl/marches-publics/",
+  "uri": "https://git.opendatafrance.net/scdl/marches-publics/blob/master/schemas/marche_public_SCDL.json",
+  "example": "https://git.opendatafrance.net/scdl/marches-publics/blob/master/exemples/exemple_marche_public.csv",
   "fields": [
     {
         "name": "MARCHE_ID",
